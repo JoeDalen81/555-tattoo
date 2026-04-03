@@ -1,0 +1,22 @@
+.featured-work {
+  background: var(--color-bg-dark);
+  padding-top: 80px;
+}
+
+.featured-header {
+  text-align: center;
+  padding: 0 20px;
+  margin-bottom: 40px;
+}
+
+.featured-intro {
+  color: var(--color-text-muted);
+  max-width: 600px;
+  margin: -30px auto 0;
+  font-size: 1.1rem;
+}
+
+.featured-cta {
+  text-align: center;
+  padding: 40px 20px;
+}
