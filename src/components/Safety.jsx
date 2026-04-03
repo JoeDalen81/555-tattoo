@@ -47,7 +47,7 @@ function Safety() {
         <h2 className="section-title">Your Safety, Our Priority</h2>
         <p className="safety-intro">
           At 555 Tattoo, we believe that exceptional art begins with
-          uncompromising safety standards. Denis Craig has built this studio on
+          uncompromising safety standards. Denise Craig has built this studio on
           the foundation of cleanliness, professionalism, and client well-being.
           Your health is never a compromise.
         </p>
@@ -72,7 +72,7 @@ function Safety() {
               you sit in our chair, you can focus entirely on the excitement of
               your new tattoo, knowing that every precaution has been taken."
             </p>
-            <span className="commitment-signature">— Denis Craig, Owner</span>
+            <span className="commitment-signature">— Denise Craig, Owner</span>
           </div>
         </div>
       </div>

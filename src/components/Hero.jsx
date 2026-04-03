@@ -13,7 +13,7 @@ function Hero() {
         </h1>
         <p className="hero-tagline">Where Art Meets Skin</p>
         <p className="hero-description">
-          Premium tattoo artistry by Denis Craig. Every piece tells a story,
+          Premium tattoo artistry by Denise Craig. Every piece tells a story,
           crafted with passion, precision, and an unwavering commitment to
           safety.
         </p>

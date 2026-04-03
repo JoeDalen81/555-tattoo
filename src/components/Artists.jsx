@@ -5,12 +5,12 @@ function Artists() {
   const artists = [
     {
       id: 1,
-      name: "Denis Craig",
+      name: "Denise Craig",
       role: "Owner & Lead Artist",
       image:
-        "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+        "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?w=400&q=80",
       specialties: ["Blackwork", "Realism", "Custom Design"],
-      bio: "With over a decade of experience, Denis founded 555 Tattoo with a vision to create a space where artistry meets professionalism. His passion for tattooing began at a young age, and he has since dedicated his life to mastering the craft. Denis specializes in blackwork and realism, bringing each client's vision to life with precision and creativity.",
+      bio: "With over a decade of experience, Denise founded 555 Tattoo with a vision to create a space where artistry meets professionalism. Her passion for tattooing began at a young age, and she has since dedicated her life to mastering the craft. Denise specializes in blackwork and realism, bringing each client's vision to life with precision and creativity.",
       instagram: "#",
     },
     {

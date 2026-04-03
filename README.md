@@ -1,6 +1,6 @@
 # 555 Tattoo - Website
 
-A modern, dark-themed React website for 555 Tattoo, owned by Denis Craig. This site showcases the studio's passion for tattooing and commitment to safety.
+A modern, dark-themed React website for 555 Tattoo, owned by Denise Craig. This site showcases the studio's passion for tattooing and commitment to safety.
 
 ## Features
 
@@ -90,7 +90,7 @@ Edit `src/components/Artists.jsx` and update the `artists` array:
 const artists = [
   {
     id: 1,
-    name: "Denis Craig",
+    name: "Denise Craig",
     role: "Owner & Lead Artist",
     image: "/path/to/photo.jpg",
     specialties: ["Blackwork", "Realism", "Custom Design"],
@@ -192,5 +192,5 @@ This project is created for 555 Tattoo. All rights reserved.
 
 ---
 
-**555 Tattoo** - Where Art Meets Skin  
-Owned by Denis Craig
+**555 Tattoo** - Where Art Meets Skin
+Owned by Denise Craig

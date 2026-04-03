@@ -26,8 +26,8 @@ function About() {
           <div className="about-text">
             <h3 className="about-subtitle">A Passion for Permanent Art</h3>
             <p className="about-description">
-              Founded by Denis Craig, 555 Tattoo represents the culmination of a
-              lifelong passion for art and self-expression. What began as a
+              Founded by Denise Craig, 555 Tattoo represents the culmination of
+              a lifelong passion for art and self-expression. What began as a
               fascination with the ancient art of tattooing has evolved into a
               premier destination for those seeking meaningful, high-quality
               body art.
@@ -40,7 +40,7 @@ function About() {
               meets professionalism.
             </p>
             <p className="about-description">
-              Denis's journey in tattooing has been marked by continuous
+              Denise's journey in tattooing has been marked by continuous
               learning and evolution. From traditional techniques to modern
               innovations, every skill has been honed to deliver exceptional
               results that stand the test of time.

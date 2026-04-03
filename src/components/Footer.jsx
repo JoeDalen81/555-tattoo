@@ -83,7 +83,7 @@ function Footer() {
 
         <div className="footer-bottom">
           <p className="copyright">
-            © {currentYear} 555 Tattoo. All rights reserved. | Owned by Denis
+            © {currentYear} 555 Tattoo. All rights reserved. | Owned by Denise
             Craig
           </p>
           <p className="footer-legal">
